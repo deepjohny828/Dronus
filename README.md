@@ -1,3 +1,5 @@
+#СОСАТь!!!!!!!!! америка#
+
 #### Инфа для редактирования README.md - https://github.com/GnuriaN/format-README
 ## Конфигурационные команды в одной строке (remake by me)
 ```bash
