@@ -27,10 +27,10 @@ sed -i 's|clover_aruco.world|guap.world|g' /home/clover/catkin_ws/src/clover/clo
 ```
 Настройка LPE
 -----------
-###При использовании LPE (параметр ```SYS_MC_EST_GROUP``` = ```local_position_estimator```, ```attitude_estimator_q```):
+При использовании LPE (параметр ```SYS_MC_EST_GROUP``` = ```local_position_estimator```, ```attitude_estimator_q```):
 
->В параметре ```LPE_FUSION``` включены флажки ```vision position```, ```land detector```. Флажок ```baro``` рекомендуется отключить.<br>
->Вес угла по рысканью по зрению: ```ATT_W_EXT_HDG``` = 0.5<br>
->Включена ориентация по Yaw по зрению: ```ATT_EXT_HDG_M``` = 1 Vision.<br>
->Шумы позиции по зрению: ```LPE_VIS_XY``` = 0.1 m, ```LPE_VIS_Z``` = 0.1 m.<br>
-```LPE_VIS_DELAY``` = 0 sec.
+-В параметре ```LPE_FUSION``` включены флажки ```vision position```, ```land detector```. Флажок ```baro``` рекомендуется отключить.<br>
+-Вес угла по рысканью по зрению: ```ATT_W_EXT_HDG``` = 0.5<br>
+-Включена ориентация по Yaw по зрению: ```ATT_EXT_HDG_M``` = 1 Vision.<br>
+-Шумы позиции по зрению: ```LPE_VIS_XY``` = 0.1 m, ```LPE_VIS_Z``` = 0.1 m.<br>
+-```LPE_VIS_DELAY``` = 0 sec.
