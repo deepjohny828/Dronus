@@ -25,6 +25,7 @@ rosrun clover_simulation aruco_gen --single-model --source-world=/home/clover/ca
 sed -i 's|clover_aruco.world|guap.world|g' /home/clover/catkin_ws/src/clover/clover_simulation/launch/simulator.launch
 ```
 ##Настройка LPE
+
 При использовании LPE (параметр ```SYS_MC_EST_GROUP``` = ```local_position_estimator```, ```attitude_estimator_q```):
 
 В параметре ```LPE_FUSION``` включены флажки ```vision position```, ```land detector```. Флажок ```baro``` рекомендуется отключить.
