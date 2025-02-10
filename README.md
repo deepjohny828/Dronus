@@ -1,5 +1,7 @@
 СОСАТь!!!!!!!!! америка
 ==========================
+CLEVER_SHOW - https://github.com/CopterExpress/clever-show/blob/master/README_RU.md
+-------
 #### Инфа для редактирования README.md - https://github.com/GnuriaN/format-README
 ## Конфигурационные команды в одной строке (remake by me)
 ```bash
