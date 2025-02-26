@@ -1,5 +1,8 @@
 СОСАТь!!!!!!!!! америка сtrl+p 
 ==========================
+###сжктый образ хз нахуя
+https://mega.nz/file/HdFgjIaT#YinwlgpJO4ZJtxp1ePeYXCpdOCYq2Deb-ArEB_blqkE
+
 Настройка на прошивку (настройка клиента дрона для сервака) - https://docs.google.com/document/d/1SCbrtkaLVe318CNdk0yqiyBz2V1w15oLm-uq-BPU2SY/edit?tab=t.0 
 -------
 CLEVER_SHOW - https://github.com/CopterExpress/clever-show/blob/master/README_RU.md
