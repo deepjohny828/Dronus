@@ -1,5 +1,8 @@
 СОСАТь!!!!!!!!! америка сtrl+p 
 ==========================
+Кароче по для пульта
+https://github.com/blheli-configurator/blheli-configurator/releases
+-------
 #Сжатый образ хз нахуя
 https://mega.nz/file/HdFgjIaT#YinwlgpJO4ZJtxp1ePeYXCpdOCYq2Deb-ArEB_blqkE
 -----
